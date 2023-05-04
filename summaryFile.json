@@ -1,0 +1,16 @@
+[
+     {
+          "sessionStart": "1681722000",
+          "sessionEnd": "1681743600",
+          "sessionDuration": "21600",
+          "ReturnedLate": false,
+          "CarDamaged": true
+     },
+     {
+          "sessionStart": "1680343200",
+          "sessionEnd": "1680382800",
+          "sessionDuration": "39600",
+          "ReturnedLate": false,
+          "CarDamaged": false
+     }
+]
